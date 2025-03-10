@@ -5,8 +5,6 @@
 - 💼 I mostly work on Frontend Development on projects
 ### Languages and Tools
 ---
-### Languages and Tools
----
 <p align="left">
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
