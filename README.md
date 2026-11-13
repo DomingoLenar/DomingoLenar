@@ -12,15 +12,13 @@
 - 🎓 B.S. Computer Science, Saint Louis University, Baguio City
 - 🏆 Dean's Lister · 2nd Place, MPTC Innovation Olympics 2024
 ### Featured Projects
-| Project | What it is | Built with |
-|---|---|---|
-| [Amalzen Disease Diagnosis](https://github.com/DomingoLenar/Amalzen-Disease-Diagnosis) | Machine learning system that suggests diagnoses from patient symptoms and history | Python, TensorFlow, React |
-| [RT-DETRv2 Mobile](https://github.com/DomingoLenar/RT-DETRV2-MOBILE) | Real-time object detection running on Android devices | PyTorch, Kotlin |
-| [Cordillera Language Mapping](https://github.com/DomingoLenar/Cordillera-Language-Mapping) | Web app to discover the languages and dialects of the Cordillera region | JavaScript, HTML, CSS |
-| [Cache Game](https://github.com/DomingoLenar/Cache-Game) | Browser game that trains memory and reaction time | JavaScript |
- 
+- **[Amalzen Disease Diagnosis](https://github.com/DomingoLenar/Amalzen-Disease-Diagnosis)**: machine learning system that suggests diagnoses from patient symptoms and history. *Python · TensorFlow · React*
+- **[RT-DETRv2 Mobile](https://github.com/DomingoLenar/RT-DETRV2-MOBILE)**: real-time object detection running on Android devices. *PyTorch · Kotlin*
+- **[Cordillera Language Mapping](https://github.com/DomingoLenar/Cordillera-Language-Mapping)**: web app to discover the languages and dialects of the Cordillera region. *JavaScript · HTML · CSS*
+- **[Cache Game](https://github.com/DomingoLenar/Cache-Game)**: browser game that trains memory and reaction time. *JavaScript*
 ### Tech Stack
 **Frontend**
+ 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,6 +28,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  
 **Backend & Data**
+ 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,6 +36,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
  
 **Design & Tools**
+ 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
