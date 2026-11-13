@@ -98,11 +98,11 @@
 
 ### GitHub Stats
 ---
-![Lenar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DomingoLenar&show_icons=true&theme=radical&v=1)
+![Lenar's GitHub Stats](./profile/stats.svg)
 
 ### Top Languages
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DomingoLenar&layout=compact&theme=radical&v=1)
+![Top Languages](./profile/top-langs.svg)
 
 ### Connect with Me
 ---
